@@ -1,0 +1,14 @@
+com/applibrisenai/MainActivity.java
+ com.applibrisenai.MainActivity
+com/applibrisenai/ReactNativeFlipper.java
+ com.applibrisenai.ReactNativeFlipper
+ com.applibrisenai.ReactNativeFlipper$1
+ com.applibrisenai.ReactNativeFlipper$2
+ com.applibrisenai.ReactNativeFlipper$2$1
+com/applibrisenai/BuildConfig.java
+ com.applibrisenai.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/applibrisenai/MainApplication.java
+ com.applibrisenai.MainApplication
+ com.applibrisenai.MainApplication$1
